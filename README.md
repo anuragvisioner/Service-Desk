@@ -5,9 +5,14 @@
 
 The "Service Desk" app is a service management application created using Power Apps. This app enables users to generate service tickets and allows admins to manage and resolve these tickets efficiently.
 
-## Demo Video
+## Demo Video & Screenshots
 
 [Watch the demo video](https://1drv.ms/v/c/aaa79a7526bcedd4/EZf5gwWusgtHhEfL97MUpu8BriQHC2n3nDdCiTvKeZ3SbA?e=4gfQAA)
+
+<p>
+   <img src="img/img1.jpg">
+   <img src="img/img2.jpg">
+</p>
 
 ## Features
 
